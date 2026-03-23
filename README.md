@@ -27,7 +27,7 @@ A free, browser-based thesis analyser for DPhil and PhD students. Upload your Wo
 ## 🚀 Getting Started
 
 ### Option 1 — Use it online
-Visit the hosted version at **(https://sassykeets.github.io/Thesis_Studio/)** *(or your deployed URL)*
+Visit the hosted version at **(https://sassykeets.github.io/Thesis_Studio/)** 
 
 ### Option 2 — Run locally
 1. Download `thesis_studio.html`

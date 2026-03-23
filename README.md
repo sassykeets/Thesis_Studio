@@ -1,6 +1,6 @@
 # 🌸 Thesis Studio
 
-A free, browser-based thesis analyser for DPhil and PhD students. Upload your Word document and get instant structural analysis, word counts, writing health checks, and a planning wizard — all running locally in your browser. **Your file never leaves your computer.**
+A free, browser-based thesis analyser for DPhil and PhD students. Upload your Word document and get instant structural analysis, word counts, writing health checks, and a planning wizard, all running locally in your browser. **Your file never leaves your computer.**
 
 ![Thesis Studio](https://img.shields.io/badge/version-1.0-pink) ![License](https://img.shields.io/badge/license-MIT-lavender) ![No server](https://img.shields.io/badge/no%20server-runs%20locally-sage)
 
@@ -27,7 +27,7 @@ A free, browser-based thesis analyser for DPhil and PhD students. Upload your Wo
 ## 🚀 Getting Started
 
 ### Option 1 — Use it online
-Visit the hosted version at **[thesis-studio.netlify.app](https://thesis-studio.netlify.app)** *(or your deployed URL)*
+Visit the hosted version at **(https://sassykeets.github.io/Thesis_Studio/)** *(or your deployed URL)*
 
 ### Option 2 — Run locally
 1. Download `thesis_studio.html`
